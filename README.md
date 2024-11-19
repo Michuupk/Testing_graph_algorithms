@@ -1,0 +1,1 @@
+Program that takes the graph from file or generates the random graph, then loads it into memory as matrix or as a list of neighbours with cost. Then you can run the rogram to use Dijkstra's algorithm on both of those data models and gather time about those methods for comparision.
